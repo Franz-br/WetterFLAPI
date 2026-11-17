@@ -1,0 +1,6 @@
+@WetterAPI_FL_HostAddress = http://localhost:5195
+
+GET {{WetterAPI_FL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
